@@ -18,6 +18,7 @@ Part1:
 - the cursor retrieves the nation and the number of times it won a gold medal
 - the query result should be ordered by the number of golden medals won
 --------------------------------------------------------------------------------
+Part2:
 - declare procedure TOP_NATIONS_PROCEDURE that accept parameters sport_ and size_
 - the procedure executes TOP_NATION_CURSOR with parameter sport_ and fetches the top size_
 - nations that won the gold medal in the sport 
