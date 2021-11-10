@@ -1,7 +1,7 @@
 Course: DATABASE II 
 
-The two files contain answers of the following questions
-**Note: All schemas used is available online in LIVE SQL
+The three files contain answers of the following questions
+**Note: All schemas used are available online in LIVE SQL
 
 # Question 1 : 
 - Retrieve the department name and average salary from the tables DEPARTMENT and EMPLOYEE by calculating the average salary of all employees grouped in a department.
