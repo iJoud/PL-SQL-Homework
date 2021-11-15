@@ -1,6 +1,6 @@
 Course: DATABASE II 
 
-The three files contain answers of the following questions
+The three files contain solutions of the following questions
 **Note: All schemas used are available online in LIVE SQL
 
 # Question 1 : 
