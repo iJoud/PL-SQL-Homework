@@ -34,7 +34,9 @@ The code creates a two-dimensional 10*10 array using VARRAY. You need to complet
 Write a pl/sql program that contains a procedure bestAthletes_proc which accepts sport, nation, or gender or a combination of two or three of them, and
 1- retrieve all athletes that won more than 5 medals under the condition
 2- for each athlete, outputs how many gold, silver and bronze medals the athlete won.
-use OLYM.OLYM_MEDALS_VIEW, use cursor
+    
+    use OLYM.OLYM_MEDALS_VIEW, 
+    use cursor.
 
 
 
